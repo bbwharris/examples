@@ -1,0 +1,5 @@
+== Examples
+
+This is a set of example code to complement my blog posts.
+
+* as_paperclip

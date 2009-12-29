@@ -1,0 +1,5 @@
+== Active Scaffold with Paperclip Example
+
+This is an quick demonstration of setting up Active Scaffold with Paperclip.
+ 
+
