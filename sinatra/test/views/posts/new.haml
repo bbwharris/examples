@@ -1,0 +1,8 @@
+%form{:method => "post", :action => "/posts"}
+  %label{:name => "post[title]"} Title
+  %input{:name =>"post[title]", :type => "textbox"}
+  %br/
+  %label{:name => "post[body]"} Body
+  %textarea{:name => "post[body]"}
+  %br/
+  %input{:type => 'submit'} Submit
